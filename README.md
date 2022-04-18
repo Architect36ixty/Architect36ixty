@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Architect36ixty
 - 👀 I’m interested in using science to slove problems.
 - 🌱 I’m currently learning Computer Science.
-- 💞️ I’m looking to collaborate on (not sure yet).
+- 💞️ I’m looking to collaborate on Python AI/ML projects.
 - 📫 kvrnetworks@gmail.com
 
 <!---
